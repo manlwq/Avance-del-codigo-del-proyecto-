@@ -48,6 +48,7 @@ Rendimiento Lento:
 Asegúrate de cerrar otras aplicaciones en segundo plano que puedan estar consumiendo recursos de tu sistema.
 Errores de Ejecución:
 Verifica que todos los archivos necesarios para el juego estén en la ubicación correcta.
+
 Se necesitara que se instale en su ordenador y en el proyecto la libreria SDL y SDL_image. Para comodidad del usuario se les guiara de forma mas acertada viendo estos dos sencillos tutoriales de instalacion:
 Tutorial SDL: https://www.youtube.com/watch?v=13AEnd8XB70&t=208s&pp=ygUMZG93bmxvYWQgc2Rs
 Tutorial SDL_image: https://www.youtube.com/watch?v=AC0UFee-oVo&pp=ygUSZG93bmxvYWQgc2RsIGltYWdl
